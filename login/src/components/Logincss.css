@@ -1,0 +1,68 @@
+.vh-100{
+    background-color: #05094b;
+
+}
+
+.card{
+    border-radius: 1rem;
+}
+
+.img-fluid{
+    border-radius: 1rem 0 0 1rem;
+}
+
+.fas fa-cubes fa-2x me-3{
+    color:#ff6219;
+}
+
+.fw-normal mb-3 pb-3{
+    letter-spacing: 1px;
+}
+.mb-5 pb-lg-2{
+    color:black
+}
+.row g-3{
+    padding :1%;
+    margin: 1%;
+}
+
+.forget{
+    color:#05094b;
+    text-align: right;
+    text-decoration: none;
+
+}
+
+.btn-login, .signup{
+    background-color: #05094b;
+    color: white;
+    display: block;
+    width: 30%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid #c4c4c4;
+    padding: 1em;
+    margin-bottom: 1.25rem;
+    font-size: 0.875rem;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    color: #05094b;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 10px;
+}
+
+form input[type="email"],
+form input[type="password"]
+ {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid #c4c4c4;
+    padding: 1em;
+    margin-bottom: 1.25rem;
+    font-size: 0.875rem;
+  } 
